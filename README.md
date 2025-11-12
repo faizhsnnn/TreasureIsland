@@ -19,11 +19,14 @@ It’s simple yet effective for improving logical thinking and interactive progr
 
 ## 🗂️ Project Structure  
 
+```
 Treasure Island/
 │
 ├── main.py # Game logic
 ├── askii.py # ASCII art
 └── README.md # Project documentation
+```
+---
 
 ## ⚙️ How to Run  
 
